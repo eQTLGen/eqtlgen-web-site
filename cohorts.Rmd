@@ -15,7 +15,7 @@ Below we have listed the eQTLGen consortium members.
 - The Leiden Longevity Study
 - The Netherlands Study of Depression and Anxiety (NESDA)
 - The Netherlands Twin Register (NTR)
-- PAN
+- Prospective ALS study the Netherlands (PAN)
 - The Rotterdam Study
 - Estonian Gene Expression Cohort (EGCUT1)
 - Estonian Center for Translational Genomics cohort (EGCUT2)
@@ -29,7 +29,6 @@ Below we have listed the eQTLGen consortium members.
 - The Center for Health Discovery and Well Being (CHDWB)
 - DIetary, Lifestyle and Genetic determinants of Obesity and Metabolic syndrome (DILGOM)
 - Fehrmann study
-- The Heart and Vascular Health study (HVH)
 - Invecchiare in Chianti, ageing in the Chianti area study (InCHIANTI)
 - The Cooperative Health Research in the Region of Augsburg (KORA F4)
 - LIFE-Adult
@@ -38,5 +37,17 @@ Below we have listed the eQTLGen consortium members.
 - The Study of Health in Pomerania (SHIP-TREND)
 - The Singapore Systems Immunology Cohort (SSIC)
 - Sorbs study
-- Young Finns Study (YFS)
-- Framingham Heart Study (FHS)
+- The Cardiovascular Risk in Young Finns Study (YoungFinns)
+- Jackson Heart Study (JHS)
+- Knigh-ADRC
+- Special Turku Coronay Risk Factor Intervention Project (STRIP)
+- 300 Tanzania functional genomics (300TZFG)
+- Qatar Genome Program
+- PRECISEADS
+- UK Genomic Advances in Sepsis (GAinS)
+- DIRECT cohort
+- Health for Life in Singapore (HELIOS)
+- OphoffBP / Schwarz study
+- Genetic Analysis of Idiopathic Thrombophilia (GAIT-2)
+- Japan COVID-19 Task Force (JCTF)
+- Accelerating Medicines Partnership Parkinson's disease (AMP-PD)
